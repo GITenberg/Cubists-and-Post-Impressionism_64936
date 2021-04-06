@@ -1,5 +1,8 @@
 _repo: Cubists-and-Post-Impressionism_64936
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64936-h/images/cover.jpg
 creator:
   author:
     agent_name: Eddy, Arthur Jerome
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3246
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Jerome_Eddy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64936#Cubists-and-Post-Impressionism
 gutenberg_issued: '2021-03-27'
 gutenberg_type: Text
 identifiers:
